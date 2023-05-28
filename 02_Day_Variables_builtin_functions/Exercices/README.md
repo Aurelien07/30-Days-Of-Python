@@ -1,6 +1,8 @@
 __Exercises: Level 1__
 
-Inside 30DaysOfPython create a folder called day_2. Inside this folder create a file named variables.py
+Inside 30DaysOfPython create a folder called Exercices. 
+
+Inside this folder create a file named variables.py
 
 Write a python comment saying 'Day 2: 30 Days of python programming'
 
